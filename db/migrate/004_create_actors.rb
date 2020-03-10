@@ -4,6 +4,5 @@ class CreateActors < ActiveRecor::Migration[5.1]
         t.text :first_name
         t.text :last_name 
       end
-    end
   end
 end 
