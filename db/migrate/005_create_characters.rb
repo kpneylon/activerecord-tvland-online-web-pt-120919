@@ -7,8 +7,4 @@ class CreateCharacters < ActiveRecord::Migration[5.1]
       t.string :catchphrase
     end
   end
-  
-  
-  
-  
 end
